@@ -2,7 +2,7 @@
 
 ## Environments
 - [JDK 11](https://openjdk.java.net/projects/jdk/11/)
-- inteliJ IDEA
+- intelliJ IDEA
 
 ## References
 - [초보자를 위한 코틀린 200제](http://www.yes24.com/Product/Goods/60820252)
