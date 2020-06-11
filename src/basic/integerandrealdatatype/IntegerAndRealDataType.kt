@@ -1,4 +1,4 @@
-package `8integerAndRealDataType`
+package basic.integerandrealdatatype
 
 fun main(arrgs: Array<String>): Unit {
     val a: Byte = 125

@@ -1,4 +1,4 @@
-package `3variable`
+package basic.variable
 
 fun main(args: Array<String>): Unit {
     var total: Int

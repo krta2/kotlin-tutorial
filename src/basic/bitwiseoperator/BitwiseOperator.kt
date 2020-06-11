@@ -1,4 +1,4 @@
-package `7bitwiseOperator`
+package basic.bitwiseoperator
 
 fun main(arrgs: Array<String>): Unit {
     println(15 and 7) // 7

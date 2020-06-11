@@ -1,4 +1,4 @@
-package `5arithmeticOperator`
+package basic.arithmeticoperator
 
 fun main(args: Array<String>): Unit {
     val num: Int = 15 - 4 * 3

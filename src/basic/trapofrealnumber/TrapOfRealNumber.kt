@@ -1,4 +1,4 @@
-package `9trapOfRealNumber`
+package basic.trapofrealnumber
 
 fun main(arrgs: Array<String>): Unit {
     println(0.1f + 0.1f + 0.1f) // 0.3

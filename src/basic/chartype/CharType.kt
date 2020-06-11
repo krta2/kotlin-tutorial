@@ -1,4 +1,4 @@
-package `10charType`
+package basic.chartype
 
 fun main(arrgs: Array<String>): Unit {
     var ch: Char = 'A'

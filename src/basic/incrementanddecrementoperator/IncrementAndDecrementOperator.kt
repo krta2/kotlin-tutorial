@@ -1,4 +1,4 @@
-package `6incrementAndDecrementOperator`
+package basic.incrementanddecrementoperator
 
 fun main(args: Array<String>): Unit {
     var a = 10
